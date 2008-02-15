@@ -13,7 +13,7 @@ Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Gearman/%{pdir}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-authors/id/B/BR/BRADFITZ/%{pdir}-%{version}.tar.gz
 # Source0-md5:	97403520bed18e1a7316001742381b2c
 URL:		http://search.cpan.org/dist/Gearman/
 BuildRequires:	perl-devel >= 1:5.8.0
